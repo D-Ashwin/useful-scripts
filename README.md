@@ -5,5 +5,5 @@
  
  ## Loader 2
 - Using turtle
-	![Optional Text](images/loader1.png)
+	![Optional Text](images/loader2.png)
 	
